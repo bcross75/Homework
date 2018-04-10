@@ -15,7 +15,7 @@ namespace ConsoleApplication24
 
         public Car()
         {
-            
+
         }
 
         public Car(string make, string model, int year)
