@@ -1,1 +1,9 @@
 C:\dev\Homework\HomeworkTests\obj\Debug\HomeworkTests.csprojResolveAssemblyReference.cache
+C:\dev\trash\Homework1\HomeworkTests\bin\Debug\HomeworkTests.dll
+C:\dev\trash\Homework1\HomeworkTests\bin\Debug\HomeworkTests.pdb
+C:\dev\trash\Homework1\HomeworkTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dev\trash\Homework1\HomeworkTests\obj\Debug\HomeworkTests.csprojResolveAssemblyReference.cache
+C:\dev\trash\Homework1\HomeworkTests\obj\Debug\HomeworkTests.dll
+C:\dev\trash\Homework1\HomeworkTests\obj\Debug\HomeworkTests.pdb
+C:\dev\trash\Homework1\HomeworkTests\bin\Debug\Homework.dll
+C:\dev\trash\Homework1\HomeworkTests\bin\Debug\Homework.pdb

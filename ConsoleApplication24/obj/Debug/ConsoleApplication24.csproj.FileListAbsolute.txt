@@ -5,3 +5,8 @@ C:\dev\Homework\ConsoleApplication24\bin\Debug\ConsoleApplication24.pdb
 C:\dev\Homework\ConsoleApplication24\obj\Debug\ConsoleApplication24.csprojResolveAssemblyReference.cache
 C:\dev\Homework\ConsoleApplication24\obj\Debug\ConsoleApplication24.exe
 C:\dev\Homework\ConsoleApplication24\obj\Debug\ConsoleApplication24.pdb
+C:\dev\trash\Homework1\ConsoleApplication24\obj\Debug\ConsoleApplication24.exe
+C:\dev\trash\Homework1\ConsoleApplication24\obj\Debug\ConsoleApplication24.pdb
+C:\dev\trash\Homework1\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe
+C:\dev\trash\Homework1\ConsoleApplication24\bin\Debug\ConsoleApplication24.pdb
+C:\dev\trash\Homework1\ConsoleApplication24\obj\Debug\ConsoleApplication24.csprojResolveAssemblyReference.cache
